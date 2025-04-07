@@ -13,6 +13,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Mockito-training" options="-parameters" />
       <module name="librarymanager" options="" />
     </option>
   </component>
