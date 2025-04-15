@@ -86,7 +86,6 @@ Vous devez créer une application de gestion de bibliothèque permettant d'ajout
 #### Définition et cours sur Mockito
 Mockito est un framework de moquage pour Java qui permet de créer des objets factices pour les tests. Il est utilisé pour isoler la classe testée de ses dépendances.
 
-```markdown
 ## Introduction à Mockito
 
 Mockito est un framework de moquage populaire pour Java qui permet de créer et de configurer des objets mock pour les tests. Il est couramment utilisé dans les tests unitaires pour isoler la classe testée de ses dépendances. Cela permet de s'assurer que vos tests se concentrent sur le comportement de la classe elle-même plutôt que sur celui de ses dépendances.
